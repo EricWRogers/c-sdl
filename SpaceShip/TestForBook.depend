@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1507492408 source:/home/eric/workspaceCB/git/c-sdl/SpaceShip/main.cpp
+	<SDL/SDL.h>
+

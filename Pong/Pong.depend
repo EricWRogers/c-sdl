@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1391576518 source:/home/eric/workspaceCB/git/c-sdl/Pong/main.cpp
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+	<SDL/SDL_ttf.h>
+
